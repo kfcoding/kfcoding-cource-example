@@ -1,0 +1,12 @@
+{
+  "title": "First Scenario",
+  "description": "First Scenario",
+  "environment": {
+    "image": "ubuntu",
+    "cmd": "/bin/bash"
+  },
+  "steps": [
+    "steps/step1",
+    "steps/step2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "title": "Kfcoding Course Example",
+  "author": "Kfcoding",
+  "description": "Kfcoding Course Example",
+  "scenarios": [
+    "scenarios/scenario1",
+    "scenarios/scenario2"
+  ]
+}
