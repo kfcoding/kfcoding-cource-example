@@ -1,6 +1,6 @@
 {
-  "title": "First Scenario",
-  "description": "First Scenario",
+  "title": "Linux查看文件",
+  "description": "Linux查看文件，学会使用ls命令",
   "environment": {
     "image": "ubuntu",
     "cmd": "/bin/bash"
@@ -8,6 +8,7 @@
   "pre": "pre.sh",
   "steps": [
     "steps/step1",
-    "steps/step2"
+    "steps/step2",
+    "steps/step3"
   ]
 }

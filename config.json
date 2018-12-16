@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "title": "Kfcoding Course Example",
+  "title": "Kfcoding课程示例",
   "author": "Kfcoding",
-  "description": "Kfcoding Course Example",
+  "description": "该课程是Kfcoding的示例课程",
   "scenarios": [
     "scenarios/scenario1",
     "scenarios/scenario2"

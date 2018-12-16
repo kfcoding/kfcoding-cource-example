@@ -1,6 +1,6 @@
 {
-  "title": "The First Step",
-  "description": "This is the first step",
+  "title": "环境准备",
+  "description": "准备Linux环境",
   "text": "text.md",
   "pre": "pre.sh",
   "verify": "verify.sh"

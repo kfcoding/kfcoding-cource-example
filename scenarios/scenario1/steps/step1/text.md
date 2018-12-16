@@ -3,5 +3,5 @@
 Create a dir named `mydir`
 
 ```
-mkdir mydir
+ls /
 ```
